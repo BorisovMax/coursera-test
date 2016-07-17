@@ -56,6 +56,6 @@ button.navbar-toggle:active .icon-bar {
 }
 @media (max-width: 767px) {
  main .container {
-    width: 85%;
+    width: 95%;
   }
 }
